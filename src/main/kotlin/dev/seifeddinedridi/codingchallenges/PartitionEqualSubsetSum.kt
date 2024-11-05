@@ -1,3 +1,5 @@
+package dev.seifeddinedridi.codingchallenges
+
 class PartitionEqualSubsetSum {
     fun canPartition(a: IntArray): Boolean {
         var target = a.sum()

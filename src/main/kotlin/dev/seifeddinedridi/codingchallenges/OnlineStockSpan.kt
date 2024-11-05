@@ -1,6 +1,8 @@
+package dev.seifeddinedridi.codingchallenges
+
 import java.util.*
 
-class StockSpanner {
+class OnlineStockSpan {
     
     private val prices = mutableListOf<Int>()
     private val stack = Stack<Int>()

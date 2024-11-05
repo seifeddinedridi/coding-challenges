@@ -1,3 +1,5 @@
+package dev.seifeddinedridi.codingchallenges
+
 import kotlin.math.max
 
 class LongestConsecutiveSequence {
