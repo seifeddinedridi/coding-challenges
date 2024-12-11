@@ -1,5 +1,7 @@
 package dev.seifeddinedridi.codingchallenges
 
+import java.util.Stack;
+
 public class BSTIterator {
 
     private Stack<TreeNode> stack;
