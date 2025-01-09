@@ -1,8 +1,10 @@
 package dev.seifeddinedridi.codingchallenges;
 
-import java.util.stream.IntStream;
-import java.util.List;
 import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Set;
+import java.util.stream.IntStream;
 
 public class Permutations {
     public List<List<Integer>> permute(int[] nums) {

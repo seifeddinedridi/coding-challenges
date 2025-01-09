@@ -1,4 +1,4 @@
-package dev.seifeddinedridi.codingchallenges
+package dev.seifeddinedridi.codingchallenges;
 
 import java.util.Stack;
 

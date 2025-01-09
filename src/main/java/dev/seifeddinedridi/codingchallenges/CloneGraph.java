@@ -1,9 +1,6 @@
 package dev.seifeddinedridi.codingchallenges;
 
-import java.util.Map;
-import java.util.HashMap;
-import java.util.LinkedList;
-import java.util.HashSet;
+import java.util.*;
 
 public class CloneGraph {
     public static class Node {

@@ -1,8 +1,9 @@
 package dev.seifeddinedridi.codingchallenges;
 
+import java.util.HashMap;
+import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
-import java.util.HashSet;
 
 public class EvaluateDivisions {
     private static class Node {

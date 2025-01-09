@@ -1,9 +1,6 @@
 package dev.seifeddinedridi.codingchallenges;
 
-import java.util.Map;
-import java.util.HashMap;
-import java.util.Set;
-import java.util.HashSet;
+import java.util.*;
 
 public class CourseSchedule {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
