@@ -1,8 +1,9 @@
 package dev.seifeddinedridi.codingchallenges;
 
-import java.util.List;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.LinkedList;
+import java.util.List;
 
 public class BinaryTreeZigZagLevelOrderTraversal {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
@@ -37,7 +38,7 @@ public class BinaryTreeZigZagLevelOrderTraversal {
                     }
                     values = new ArrayList<Integer>();
                 }
-                leftToRight = leftToRight ? false : true;
+                leftToRight = !leftToRight;
                 secondaryQueue = new LinkedList<>();
             }
         }
