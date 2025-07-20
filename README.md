@@ -1,3 +1,3 @@
-# Solutions for a variety of coding challenges
+# Solutions to some Leetcode problems
 
-These are my (Java and Kotlin) solutions to various coding challenges from LeetCode and HackerRank. I will continue to add more solutions and a proper documentation soon.
+Java and Kotlin solutions to some coding problems from LeetCode and HackerRank.
