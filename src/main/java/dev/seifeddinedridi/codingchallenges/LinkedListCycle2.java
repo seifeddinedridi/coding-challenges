@@ -1,6 +1,6 @@
 package dev.seifeddinedridi.codingchallenges;
 
-public class DetectCycleInLinkedList2 {
+public class LinkedListCycle2 {
     public ListNode detectCycle(ListNode head) {
         if (head == null || head.next == null) {
             return null;
